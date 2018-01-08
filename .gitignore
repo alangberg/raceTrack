@@ -36,7 +36,9 @@
 #Other
 .DS_Store
 /idea/*
+/web-app/WEB-INF
 .idea
 .classpath
 .project
 application.properties
+*.iml
