@@ -31,3 +31,12 @@
 
 # "temporary" build files
 /target
+
+
+#Other
+.DS_Store
+/idea/*
+.idea
+.classpath
+.project
+application.properties
